@@ -1,0 +1,13 @@
+.project
+.classpath
+.settings/
+*.class
+*.jar
+bin/
+target/
+drivers/
+lib/
+# OS files
+.DS_Store
+Thumbs.db
+
