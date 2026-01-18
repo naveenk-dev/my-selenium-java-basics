@@ -15,8 +15,7 @@ public class NavigationToExample
 	public static void main(String args[])
 	{
 		System.setProperty("webdriver.chrome.driver", "drivers/chromedriver.exe");
-		WebDriver driver = new ChromeDriver();
-		
+		WebDriver driver = new ChromeDriver();	
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();		
 		

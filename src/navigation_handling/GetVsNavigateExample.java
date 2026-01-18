@@ -16,6 +16,7 @@ public class GetVsNavigateExample
     {
         System.setProperty("webdriver.chrome.driver", "drivers/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
+        driver.manage().deleteAllCookies();
         driver.manage().window().maximize();
 
         driver.get("https://demoqa.com");
