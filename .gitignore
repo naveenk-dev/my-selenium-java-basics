@@ -7,6 +7,12 @@ bin/
 target/
 drivers/
 lib/
+
+# Optional: ignore only screenshots inside artifacts
+/test-artifacts/screenshots/
+*.png
+*.jpg
+
 # OS files
 .DS_Store
 Thumbs.db
