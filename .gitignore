@@ -7,11 +7,10 @@ bin/
 target/
 drivers/
 lib/
+downloads/
 
 #ignore only screenshots inside artifacts
 /test-artifacts/screenshots/
-*.png
-*.jpg
 
 #OS files
 .DS_Store
