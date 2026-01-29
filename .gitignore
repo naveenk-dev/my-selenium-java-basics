@@ -8,9 +8,7 @@ target/
 drivers/
 lib/
 downloads/
-
-#ignore only screenshots inside artifacts
-/test-artifacts/screenshots/
+test-artifacts/
 
 #OS files
 .DS_Store
