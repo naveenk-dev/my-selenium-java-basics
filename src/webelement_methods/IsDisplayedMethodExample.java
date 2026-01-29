@@ -43,7 +43,6 @@ public class IsDisplayedMethodExample
 		else
 			System.out.println("error message is not displayed.");
 		
-
 		driver.quit();
 		System.out.println("browser closed successfully..");
 	}

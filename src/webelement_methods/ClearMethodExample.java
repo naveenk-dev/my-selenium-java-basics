@@ -11,7 +11,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
  * Tools Used:
  * Java 17, Eclipse IDE, Selenium WebDriver 3.141.59
  */
-
 public class ClearMethodExample 
 {
 	public static void main(String args[]) throws InterruptedException 
